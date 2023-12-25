@@ -8,7 +8,12 @@
   "files": [
     "/dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parinyadagon/react-component-library.git"
+  },
   "type": "module",
+  "homepage": "https://github.com/parinyadagon/react-component-library#readme",
   "scripts": {
     "format": "prettier --write --parser typescript '**/*.{ts,tsx}'",
     "lint": "eslint . --ext .ts,.tsx --ignore-path .gitignore --fix",
