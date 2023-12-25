@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/parinyadagon/react-component-library.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/parinyadagon"
+  },
   "type": "module",
   "homepage": "https://github.com/parinyadagon/react-component-library#readme",
   "scripts": {
